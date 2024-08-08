@@ -1,0 +1,248 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_sword"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/bvb/template_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "minecraft:item/bvb/template_spear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "minecraft:item/bvb/template_twin_blade"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "minecraft:item/bvb/template_katana"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 1001001
+      },
+      "model": "minecraft:item/bvb/angel_sword"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1002001
+      },
+      "model": "minecraft:item/bvb/cactus_sword"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1002006
+      },
+      "model": "minecraft:item/bvb/cactus_cleaver"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1002007
+      },
+      "model": "minecraft:item/bvb/cactus_spear"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1003001
+      },
+      "model": "minecraft:item/bvb/cobalt_sword"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1003006
+      },
+      "model": "minecraft:item/bvb/cobalt_cleaver"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1003007
+      },
+      "model": "minecraft:item/bvb/cobalt_spear"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1004001
+      },
+      "model": "minecraft:item/bvb/coral_sword"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1005001
+      },
+      "model": "minecraft:item/bvb/emerald_sword"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1005006
+      },
+      "model": "minecraft:item/bvb/emerald_cleaver"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1007001
+      },
+      "model": "minecraft:item/bvb/energy_sword"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1007006
+      },
+      "model": "minecraft:item/bvb/energy_cleaver"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1008001
+      },
+      "model": "minecraft:item/bvb/fire_sword"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1008006
+      },
+      "model": "minecraft:item/bvb/fire_cleaver"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1009001
+      },
+      "model": "minecraft:item/bvb/glass_sword"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1009006
+      },
+      "model": "minecraft:item/bvb/glass_cleaver"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1010001
+      },
+      "model": "minecraft:item/bvb/honey_sword"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1011001
+      },
+      "model": "minecraft:item/bvb/kyanite_sword"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1011006
+      },
+      "model": "minecraft:item/bvb/kyanite_cleaver"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1012001
+      },
+      "model": "minecraft:item/bvb/nova_sword"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1012007
+      },
+      "model": "minecraft:item/bvb/nova_spear"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1013001
+      },
+      "model": "minecraft:item/bvb/royal_kyanite_sword"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1013006
+      },
+      "model": "minecraft:item/bvb/royal_kyanite_cleaver"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1014001
+      },
+      "model": "minecraft:item/bvb/ruby_sword"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1014006
+      },
+      "model": "minecraft:item/bvb/ruby_cleaver"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1014007
+      },
+      "model": "minecraft:item/bvb/ruby_spear"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1016001
+      },
+      "model": "minecraft:item/bvb/sculk_sword"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1017001
+      },
+      "model": "minecraft:item/bvb/shroom_sword"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1019001
+      },
+      "model": "minecraft:item/bvb/snow_sword"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1019007
+      },
+      "model": "minecraft:item/bvb/snow_spear"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1020001
+      },
+      "model": "minecraft:item/bvb/soulfire_sword"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1020006
+      },
+      "model": "minecraft:item/bvb/soulfire_cleaver"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1022001
+      },
+      "model": "minecraft:item/bvb/spectral_sword"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1024007
+      },
+      "model": "minecraft:item/bvb/netherite_spear"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1024016
+      },
+      "model": "minecraft:item/bvb/netherite_twin_blade"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1024017
+      },
+      "model": "minecraft:item/bvb/netherite_katana"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/farming/newton_nether_warts_hoe_tier_2"
+    }
+}
