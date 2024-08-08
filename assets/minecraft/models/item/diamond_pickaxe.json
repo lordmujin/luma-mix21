@@ -1,0 +1,116 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_pickaxe"
+  },
+  "overrides": [
+	{
+      "predicate": {
+        "custom_model_data": 1001003
+      },
+      "model": "minecraft:item/bvb/angel_pickaxe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1002003
+      },
+      "model": "minecraft:item/bvb/cactus_pickaxe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1003003
+      },
+      "model": "minecraft:item/bvb/cobalt_pickaxe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1004003
+      },
+      "model": "minecraft:item/bvb/coral_pickaxe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1005003
+      },
+      "model": "minecraft:item/bvb/emerald_pickaxe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1007003
+      },
+      "model": "minecraft:item/bvb/energy_pickaxe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1008003
+      },
+      "model": "minecraft:item/bvb/fire_pickaxe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1009003
+      },
+      "model": "minecraft:item/bvb/glass_pickaxe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1010003
+      },
+      "model": "minecraft:item/bvb/honey_pickaxe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1011003
+      },
+      "model": "minecraft:item/bvb/kyanite_pickaxe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1012003
+      },
+      "model": "minecraft:item/bvb/nova_pickaxe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1013003
+      },
+      "model": "minecraft:item/bvb/royal_kyanite_pickaxe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1014003
+      },
+      "model": "minecraft:item/bvb/ruby_pickaxe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1016003
+      },
+      "model": "minecraft:item/bvb/sculk_pickaxe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1017003
+      },
+      "model": "minecraft:item/bvb/shroom_pickaxe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1019003
+      },
+      "model": "minecraft:item/bvb/snow_pickaxe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1020003
+      },
+      "model": "minecraft:item/bvb/soulfire_pickaxe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1022003
+      },
+      "model": "minecraft:item/bvb/spectral_pickaxe"
+    }
+  ]
+}

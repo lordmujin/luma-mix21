@@ -1,0 +1,7 @@
+{
+    "parent": "block/petals3",
+    "textures": {
+        "flowerbed": "block/oxeye_daisy3",
+		"stem": "block/stem"
+    }
+}
