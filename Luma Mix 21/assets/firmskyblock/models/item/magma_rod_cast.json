@@ -1,6 +1,0 @@
-{
-    "parent": "firmskyblock:item/magma_rod",
-    "textures": {
-        "layer0": "firmskyblock:item/fishing/magma_rod_cast"
-    }
-}
