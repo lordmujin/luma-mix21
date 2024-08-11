@@ -1,41 +1,57 @@
 # luma-mix21
 ## Hypixel Skyblock Resource Pack for Minecraft 1.21
 
+Hello every-nyan <3
 This is my first try of a texture pack for Hypixel Skyblock on Minecraft 1.21.
 
-It requires Firmament to work, and I advise some mods like Sodium and Indium for performance, I'll leave links down bellow.
-I have been searching the web for the past few weeks and still couldn't get the armor models to work, but we can do items, this is still very new and there is almost no info on how we should proceed.
+Its based on the new Firmament mod resource pack format, using the fabric modloader, and I advise some mods like Sodium and Indium for performance, I'll leave links down bellow.
+I have been searching the web for the past few weeks and still couldn't find much info on new packs for 1.21, skyblocker and firmament already updated, with really good features for the server, but we still don't have a texture pack that works, so I started doing one :)
 
-I have another mix for minecraft 1.20.4, it uses CIT and optifine components, but it hasn't seen an update in months, and honestly I dont think CIT will save us, we gotta start adapting to the new layout, wich will be a pain to rework, but I think it will be worth it.
+## Disclaimer
+### The textures are not made by me, the original packs are linked bellow
+### I take this as a community project, if more people start doing their thing, we can have so much more options on texture packs, specially for 1.21
 
-Feel free to let me know opinions and if I could be doing something better, I am posting this hoping the community will turn to 1.21 and we can work on something new, a lot better for performance, and smoother overall.
+## Issues
+### -Armor *Models* is not implemented yet, so only items work
+### -Still trying to figure out runes
 
-This is almost a basic wiki to get into Hypixel 1.21, I wish I found something like this, hopefully is usefull for you <3
+## Future
+### This is a personal project, I'll do some work when I can, I do want to understand better and learn this new way of making textures, specially through the new CIT system.
+### I am very happy to contribute to the hypixel skyblock community, probably my fav server ever, and I'm doing this to any skyblock player that wants to try the new ways of playing.
 
-## Base of the pack:
--BetterVanillaBuilding: https://bettervanillabuilding.com (love this pack) 
+### Feel free to let me know opinions and if I could be doing something better, I am posting this hoping the community will turn to 1.21 and we can work on something new, a lot better for performance, and smoother overall.
 
--Mandala's GUI: https://modrinth.com/resourcepack/mandalas-gui-dark-mode (coolest GUI I've seen in a while) 
+### This is almost a basic wiki to get into Hypixel 1.21, I wish I found something like this, hopefully is usefull for you <3
 
--Hypixel+: https://modrinth.com/resourcepack/hypixel-plus (most textures of items come from here) 
+## Minecraft textures:
+### -BetterVanillaBuilding: https://bettervanillabuilding.com (love this pack) 
 
--FurfSky Reborn: https://modrinth.com/resourcepack/furfsky-reborn (weapons and *maybe* armor from here) 
+### -Mandala's GUI: https://modrinth.com/resourcepack/mandalas-gui-dark-mode (coolest GUI I've seen in a while) 
+
+## Hypixel textures:
+### -Hypixel+: https://modrinth.com/resourcepack/hypixel-plus (most textures of items come from here) 
+
+### -FurfSky Reborn: https://modrinth.com/resourcepack/furfsky-reborn (weapons and *maybe* armor from here) 
 
 ## Mods I recommend:
--Firmament: https://modrinth.com/mod/firmament (this one is mandatory, comes with other dependencies) 
+### -Firmament: https://modrinth.com/mod/firmament (this one is mandatory, comes with other dependencies) 
 
--Skyblocker: https://modrinth.com/mod/skyblocker-liap (most based skyblock mod ever, better than NEU if you are wondering) 
+### -Skyblocker: https://modrinth.com/mod/skyblocker-liap (most based skyblock mod ever, better than NEU if you are wondering) 
 
--Sodium: https://modrinth.com/mod/sodium (FPS mod) 
+### -Sodium: https://modrinth.com/mod/sodium (FPS mod) 
 
--Lithium: https://modrinth.com/mod/lithium (FPS mod) 
+### -Lithium: https://modrinth.com/mod/lithium (FPS mod) 
 
--EntityCulling: https://modrinth.com/mod/entityculling (FPS mod) 
+### -EntityCulling: https://modrinth.com/mod/entityculling (FPS mod) 
 
--Dynamic FPS: https://modrinth.com/mod/dynamic-fps (FPS mod) 
+### -Dynamic FPS: https://modrinth.com/mod/dynamic-fps (FPS mod) 
 
--Zoomify: https://modrinth.com/mod/zoomify (zoom) 
+### -Zoomify: https://modrinth.com/mod/zoomify (zoom) 
 
--Krypton: https://modrinth.com/mod/krypton (server optimization) 
+### -Krypton: https://modrinth.com/mod/krypton (server optimization) 
 
--ModelGapFix: https://modrinth.com/mod/modelfix (minor fix to some custom item gaps) 
+### -ModelGapFix: https://modrinth.com/mod/modelfix (minor fix to some custom item gaps) 
+
+### -FabricSkyboxes: https://modrinth.com/mod/fabricskyboxes (this pack is compatible with custom skyboxes)
+
+### -Farsight: https://www.curseforge.com/minecraft/mc-mods/farsight-fabric (cool distant horizons but works super well on servers)
