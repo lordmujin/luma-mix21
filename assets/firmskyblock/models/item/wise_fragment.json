@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/end/dragon_fragments/wise_dragon_fragment"
+    }
+}

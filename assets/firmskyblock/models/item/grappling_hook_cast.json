@@ -1,6 +1,6 @@
 {
     "parent": "firmskyblock:item/grappling_hook",
     "textures": {
-        "layer0": "firmskyblock:item/grappling_hook/grappling_hook_cast"
+        "layer0": "firmskyblock:item/tools/grappling_hook/grappling_hook_cast"
     }
 }

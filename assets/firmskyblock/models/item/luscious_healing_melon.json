@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/slayer/riftstalker_bloodfiend/luscious_healing_melon"
+    }
+}
