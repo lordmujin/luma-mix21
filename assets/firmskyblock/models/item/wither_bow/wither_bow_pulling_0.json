@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow",
+    "textures": {
+        "layer0": "firmskyblock:item/bows/wither_bow/wither_bow_pulling_0"
+    }
+}

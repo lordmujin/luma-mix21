@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow",
+    "textures": {
+        "layer0": "firmskyblock:item/bows/souls_rebound/souls_rebound_pulling_2"
+    }
+}

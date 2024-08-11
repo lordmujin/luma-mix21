@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow",
+    "textures": {
+        "layer0": "firmskyblock:item/bows/super_undead_bow/super_undead_bow_pulling_1"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow",
+    "textures": {
+        "layer0": "firmskyblock:item/bows/hurricane_bow/hurricane_bow_pulling_1"
+    }
+}

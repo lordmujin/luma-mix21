@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow",
+    "textures": {
+        "layer0": "firmskyblock:item/bows/spider_queens_stinger/spider_queens_stinger_pulling_1"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/bows/spirit_shortbow/starred_spirit_shortbow"
+    }
+}

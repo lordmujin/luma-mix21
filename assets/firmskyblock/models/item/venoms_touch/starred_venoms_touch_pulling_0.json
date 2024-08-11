@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow",
+    "textures": {
+        "layer0": "firmskyblock:item/bows/venoms_touch/starred_venoms_touch_pulling_0"
+    }
+}

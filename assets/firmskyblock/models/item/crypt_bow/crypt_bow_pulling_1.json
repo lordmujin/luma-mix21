@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow",
+    "textures": {
+        "layer0": "firmskyblock:item/bows/soulstealer_bow/soulstealer_bow_pulling_1"
+    }
+}

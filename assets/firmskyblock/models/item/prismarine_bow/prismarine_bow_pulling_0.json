@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow",
+    "textures": {
+        "layer0": "firmskyblock:item/bows/prismarine_bow/prismarine_bow_pulling_0"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "parent": "minecraft:item/bow",
+    "textures": {
+        "layer0": "firmskyblock:item/bows/soulstealer_bow/soulstealer_bow"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "pulling": 1
+            },
+            "model": "firmskyblock:item/crypt_bow/crypt_bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "firmskyblock:item/crypt_bow/crypt_bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "firmskyblock:item/crypt_bow/crypt_bow_pulling_2"
+        }
+    ]
+}

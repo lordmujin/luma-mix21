@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow",
+    "textures": {
+        "layer0": "firmskyblock:item/bows/scorpion_bow/scorpion_bow_pulling_0"
+    }
+}
