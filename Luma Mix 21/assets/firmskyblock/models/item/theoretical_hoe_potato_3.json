@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/handheld",
-    "textures": {
-        "layer0": "firmskyblock:item/farming/pythagorean_potato_hoe_tier_3"
-    }
-}

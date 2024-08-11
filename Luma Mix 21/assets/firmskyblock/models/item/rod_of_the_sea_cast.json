@@ -1,6 +1,0 @@
-{
-    "parent": "firmskyblock:item/rod_of_the_sea",
-    "textures": {
-        "layer0": "firmskyblock:item/fishing/rod_of_the_sea_cast"
-    }
-}
