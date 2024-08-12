@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/swords/sinseeker_scythe/sinseeker_scythe"
+    }
+}

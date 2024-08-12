@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/swords/giant_eye_sword/giant_eye_sword"
+    }
+}

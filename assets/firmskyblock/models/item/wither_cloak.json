@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/swords/wither_cloak_sword/wither_cloak_sword"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/swords/blade_of_the_volcano/blade_of_the_volcano"
+    }
+}

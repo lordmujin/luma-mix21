@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/slayer/revenant_horror/reaper_scythe/reaper_scythe"
+    }
+}
