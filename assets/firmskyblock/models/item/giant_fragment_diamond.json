@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/dungeons/diamante_handle/diamante_handle"
+    }
+}

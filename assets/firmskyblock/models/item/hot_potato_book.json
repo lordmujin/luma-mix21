@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/dungeons/hot_potato_book/hot_potato_book"
+   }
+}

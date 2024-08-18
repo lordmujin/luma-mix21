@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/dungeons/fuming_potato_book/fuming_potato_book"
+   }
+}
