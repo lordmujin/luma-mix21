@@ -26,12 +26,16 @@ I have been searching the web for the past few weeks and still couldn't find muc
 ## Minecraft textures:
 ### -BetterVanillaBuilding: https://bettervanillabuilding.com (love this pack) 
 
+### -BetterSky: https://modrinth.com/resourcepack/bettersky (skybox textures)
+
 ### -Mandala's GUI: https://modrinth.com/resourcepack/mandalas-gui-dark-mode (coolest GUI I've seen in a while) 
 
 ## Hypixel textures:
 ### -Hypixel+: https://modrinth.com/resourcepack/hypixel-plus (most textures of items come from here) 
 
 ### -FurfSky Reborn: https://modrinth.com/resourcepack/furfsky-reborn (weapons and *maybe* armor from here) 
+
+### -Rachel Pack: https://modrinth.com/resourcepack/rachel-pack (farming tools are pretty dope)
 
 ## Mods I recommend:
 ### -Firmament: https://modrinth.com/mod/firmament (this one is mandatory, comes with other dependencies) 

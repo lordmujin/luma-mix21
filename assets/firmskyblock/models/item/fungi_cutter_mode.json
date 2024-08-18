@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/fungi_cutter",
+    "textures": {
+        "layer0": "firmskyblock:item/farming/fungi_cutter_red"
+    }
+}
