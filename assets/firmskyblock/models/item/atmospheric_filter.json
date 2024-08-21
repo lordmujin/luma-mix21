@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/accessories/atmospheric_filter/atmospheric_filter"
+    }
+}

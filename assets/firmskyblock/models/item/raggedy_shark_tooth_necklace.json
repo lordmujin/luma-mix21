@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/accessories/shark_tooth_necklace/raggedy_shark_tooth_necklace"
+    }
+}
