@@ -11,9 +11,13 @@ I have been searching the web for the past few weeks and still couldn't find muc
 ### The textures are not made by me, the original packs are linked bellow
 ### I take this as a community project, if more people start doing their thing, we can have so much more options on texture packs, specially for 1.21
 
-## Issues
+## W.I.P
 ### -Armor *Models* is not implemented yet, so only items work
-### -Still trying to figure out runes
+### -Icons and arrows in GUI's
+### -Maybe pet icons instead of custom heads
+### -Reforge stones
+### -Rift items
+### -Baits and fishing stuff
 
 ## Future
 ### This is a personal project, I'll do some work when I can, I do want to understand better and learn this new way of making textures, specially through the new CIT system.
