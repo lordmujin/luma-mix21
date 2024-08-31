@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/books/bane_of_arthropods/bane_of_arthropods2"
+    }
+}

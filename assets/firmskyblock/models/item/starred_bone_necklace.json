@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/equipment/dungeon/starred_bone_necklace"
+    }
+}

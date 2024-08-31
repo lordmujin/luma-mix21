@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "firmskyblock:item/farming/pest_repelent"
+        "layer0": "firmskyblock:item/farming/pest_repellent"
     }
 }

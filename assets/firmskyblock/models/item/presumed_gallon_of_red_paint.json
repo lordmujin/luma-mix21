@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/reforge_stones/presumed_gallon_of_red_paint"
+    }
+}

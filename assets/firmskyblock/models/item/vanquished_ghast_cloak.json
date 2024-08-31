@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/equipment/nether_vanquished/vanquished_ghast_cloak"
+    }
+}
