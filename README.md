@@ -18,6 +18,7 @@ I have been searching the web for the past few weeks and still couldn't find muc
 ### -Enchanted books
 ### -Rift items
 ### -Baits and fishing stuff
+### -Potions
 
 ## Future
 ### This is a personal project, I'll do some work when I can, I do want to understand better and learn this new way of making textures, specially through the new CIT system.
