@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/books/ultimate_one_for_all/ultimate_one_for_all1"
+    }
+}
