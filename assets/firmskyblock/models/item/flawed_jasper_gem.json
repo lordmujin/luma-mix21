@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/mining/gemstones/jasper/flawed_jasper_gem"
+    }
+}
