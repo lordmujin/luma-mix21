@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "firmskyblock:item/slayer/voidgloom_seraph/braided_griffin_feather"
+        "layer0": "firmskyblock:item/events/diana/braided_griffin_feather"
     }
 }

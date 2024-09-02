@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/tools/travel_scrolls/arachne_sanctuary_travel_scroll"
+    }
+}

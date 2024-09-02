@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/tools/travel_scrolls/hub_wizard_tower_travel_scroll"
+    }
+}

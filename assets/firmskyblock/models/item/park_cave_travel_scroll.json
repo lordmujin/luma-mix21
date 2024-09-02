@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/tools/travel_scrolls/park_cave_travel_scroll"
+    }
+}

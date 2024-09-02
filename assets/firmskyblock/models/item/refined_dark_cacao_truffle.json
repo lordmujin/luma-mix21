@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/events/hoppity/refined_dark_cacao_truffle"
+    }
+}

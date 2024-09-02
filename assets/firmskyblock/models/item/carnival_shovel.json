@@ -1,0 +1,20 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/events/carnival/carnival_shovel"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "firmament:lore": { "regex": "Dowsing Mode: Treasure", "color": "strip" } 
+                },
+            "model": "firmskyblock:item/carnival_shovel_treasure"
+        },
+        {
+            "predicate": {
+                "firmament:lore": { "regex": "Dowsing Mode: Anchor", "color": "strip" } 
+                },
+            "model": "firmskyblock:item/carnival_shovel_anchor"
+        }
+    ]
+}
