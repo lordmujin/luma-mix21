@@ -1,6 +1,6 @@
 {
-    "parent": "minecraft:item/handheld",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "firmskyblock:item/exp/colossal_exp_bottle"
+        "layer0": "firmskyblock:item/misc/exp/colossal_exp_bottle"
     }
 }

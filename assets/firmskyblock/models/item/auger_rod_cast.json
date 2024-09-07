@@ -1,14 +1,7 @@
 {
-    "parent": "minecraft:item/handheld_rod",
+    "parent": "firmskyblock:item/auger_rod",
     "textures": {
-        "layer0": "firmskyblock:item/fishing/auger_rod"
-    },
-    "overrides": [
-        {
-            "predicate": {
-                "cast": 1
-            },
-            "model": "firmskyblock:item/auger_rod_cast"
-        }
-    ]
+        "layer0": "firmskyblock:item/fishing/auger_rod/auger_rod"
+    }
 }
+

@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "firmskyblock:item/exp/grand_exp_bottle"
+        "layer0": "firmskyblock:item/misc/exp/grand_exp_bottle"
     }
 }
