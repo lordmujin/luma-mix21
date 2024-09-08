@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/mining/drills/gemstone_drill_model_lt_522/gemstone_drill_model_lt_522"
+    }
+}

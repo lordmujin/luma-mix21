@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/minions/dwarven_super_compactor/dwarven_super_compactor"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/mining/drills/jasper_drill_model_x/jasper_drill_model_x"
+    }
+}

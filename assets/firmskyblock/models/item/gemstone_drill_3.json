@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/mining/drills/topaz_drill_kgr_12/topaz_drill_kgr_12"
+    }
+}

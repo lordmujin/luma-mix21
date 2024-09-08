@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/mining/drills/titanium_drill_dr_x555/titanium_drill_dr_x555"
+    }
+}

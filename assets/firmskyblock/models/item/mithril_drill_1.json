@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/mining/drills/mithril_drill_sx_226/mithril_drill_sx_226"
+    }
+}
