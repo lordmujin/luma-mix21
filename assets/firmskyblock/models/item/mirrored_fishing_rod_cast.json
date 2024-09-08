@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/mirrored_fishing_rod",
+    "textures": {
+        "layer0": "firmskyblock:item/rift/items/mirrored_fishing_rod_cast"
+    }
+}

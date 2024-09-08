@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/tools/abiphone/abicase/abicase_blue_aqua"
+    }
+}
