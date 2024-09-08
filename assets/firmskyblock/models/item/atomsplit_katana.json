@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/slayer/voidgloom_seraph/atomsplit_katana/atomsplit_katana"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "firmament:item": "minecraft:golden_sword"
+                },
+            "model": "firmskyblock:item/atomsplit_katana_ability"
+        }
+    ]
+}

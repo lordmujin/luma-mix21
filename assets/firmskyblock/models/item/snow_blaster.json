@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/events/jerry/frosty_the_snow_blaster"
+    }
+}

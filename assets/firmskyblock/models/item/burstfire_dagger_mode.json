@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/burstfire_dagger",
+    "textures": {
+        "layer0": "firmskyblock:item/slayer/inferno_demonlord/kindlebane_dagger/kindlebane_dagger_ashen"
+    }
+}

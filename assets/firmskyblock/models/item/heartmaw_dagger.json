@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/slayer/inferno_demonlord/deathripper_dagger/deathripper_dagger_spirit"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "firmament:lore": { "regex": "Attuned: Crystal", "color": "strip" } 
+                },
+            "model": "firmskyblock:item/heartmaw_dagger_mode"
+        }
+    ]
+}

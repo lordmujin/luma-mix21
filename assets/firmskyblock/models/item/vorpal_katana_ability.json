@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/vorpal_katana",
+    "textures": {
+        "layer0": "firmskyblock:item/slayer/voidgloom_seraph/vorpal_katana/vorpal_katana_ability"
+    }
+}

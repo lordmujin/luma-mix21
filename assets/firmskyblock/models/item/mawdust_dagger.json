@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/slayer/inferno_demonlord/twilight_dagger/twilight_dagger_spirit"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "firmament:lore": { "regex": "Attuned: Crystal", "color": "strip" } 
+                },
+            "model": "firmskyblock:item/mawdust_dagger_mode"
+        }
+    ]
+}

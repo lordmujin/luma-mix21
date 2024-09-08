@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/slayer/inferno_demonlord/mawdredge_dagger/mawdredge_dagger_crystal"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "firmament:lore": { "regex": "Attuned: Spirit", "color": "strip" } 
+                },
+            "model": "firmskyblock:item/burstmaw_dagger_mode"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/atomsplit_katana",
+    "textures": {
+        "layer0": "firmskyblock:item/slayer/voidgloom_seraph/atomsplit_katana/atomsplit_katana_ability"
+    }
+}

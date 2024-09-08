@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/carnival_fishing_rod",
+    "textures": {
+        "layer0": "firmskyblock:item/events/carnival/carnival_fishing_rod_cast"
+    }
+}

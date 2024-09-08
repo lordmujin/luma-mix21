@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/slayer/inferno_demonlord/kindlebane_dagger/kindlebane_dagger_auric"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "firmament:lore": { "regex": "Attuned: Ashen", "color": "strip" } 
+                },
+            "model": "firmskyblock:item/burstfire_dagger_mode"
+        }
+    ]
+}

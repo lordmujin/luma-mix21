@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/burstmaw_dagger",
+    "textures": {
+        "layer0": "firmskyblock:item/slayer/inferno_demonlord/mawdredge_dagger/mawdredge_dagger_spirit"
+    }
+}

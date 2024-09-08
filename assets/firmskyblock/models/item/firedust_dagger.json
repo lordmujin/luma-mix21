@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/slayer/inferno_demonlord/firedust_dagger/firedust_dagger_ashen"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "firmament:lore": { "regex": "Attuned: Auric", "color": "strip" } 
+                },
+            "model": "firmskyblock:item/firedust_dagger_mode"
+        }
+    ]
+}

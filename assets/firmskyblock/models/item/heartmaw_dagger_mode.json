@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/heartmaw_dagger",
+    "textures": {
+        "layer0": "firmskyblock:item/slayer/inferno_demonlord/deathripper_dagger/deathripper_dagger_crystal"
+    }
+}

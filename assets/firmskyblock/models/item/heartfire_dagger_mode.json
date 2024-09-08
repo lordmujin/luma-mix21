@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/heartfire_dagger",
+    "textures": {
+        "layer0": "firmskyblock:item/slayer/inferno_demonlord/pyrochaos_dagger/pyrochaos_dagger_auric"
+    }
+}

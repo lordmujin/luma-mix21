@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/voidedge_katana",
+    "textures": {
+        "layer0": "firmskyblock:item/slayer/voidgloom_seraph/voidedge_katana/voidedge_katana_ability"
+    }
+}

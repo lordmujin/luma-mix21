@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/firedust_dagger",
+    "textures": {
+        "layer0": "firmskyblock:item/slayer/inferno_demonlord/firedust_dagger/firedust_dagger_auric"
+    }
+}
