@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/inferno_rod",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/inferno_rod_cast"
+    }
+}

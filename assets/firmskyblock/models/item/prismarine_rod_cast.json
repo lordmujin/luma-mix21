@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/prismarine_rod",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/prismarine_rod_cast"
+    }
+}

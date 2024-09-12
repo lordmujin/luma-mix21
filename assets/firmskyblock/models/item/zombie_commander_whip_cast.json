@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/zombie_commander_whip",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/zombie_commander_whip_cast"
+    }
+}

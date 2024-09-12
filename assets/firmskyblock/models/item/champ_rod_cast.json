@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/champ_rod",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/champ_rod_cast"
+    }
+}

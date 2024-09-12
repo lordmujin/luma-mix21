@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/hellfire_rod",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/hellfire_rod/hellfire_rod_cast"
+    }
+}

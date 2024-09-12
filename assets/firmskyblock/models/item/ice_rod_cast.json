@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/ice_rod",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/ice_rod_cast"
+    }
+}

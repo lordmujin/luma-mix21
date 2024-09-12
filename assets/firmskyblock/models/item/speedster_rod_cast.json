@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/speedster_rod",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/speedster_rod_cast"
+    }
+}

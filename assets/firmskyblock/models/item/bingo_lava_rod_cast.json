@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/bingo_lava_rod",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/bingo_lava_rod_cast"
+    }
+}

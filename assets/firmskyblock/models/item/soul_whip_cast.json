@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/soul_whip",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/soul_whip_cast"
+    }
+}

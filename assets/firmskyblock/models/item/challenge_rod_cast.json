@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/challenge_rod",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/challenge_rod_cast"
+    }
+}

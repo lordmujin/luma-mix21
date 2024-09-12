@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/yeti_rod",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/yeti_rod_cast"
+    }
+}

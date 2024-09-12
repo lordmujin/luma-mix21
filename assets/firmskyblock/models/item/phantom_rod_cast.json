@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/phantom_rod",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/phantom_rod/phantom_rod_cast"
+    }
+}

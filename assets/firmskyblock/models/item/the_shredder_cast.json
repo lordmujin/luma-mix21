@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/the_shredder",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/the_shredder_cast"
+    }
+}

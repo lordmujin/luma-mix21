@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/dirt_rod",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/dirt_rod_cast"
+    }
+}

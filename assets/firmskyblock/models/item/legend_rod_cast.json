@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/legend_rod",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/rod_of_legends/rod_of_legends_cast"
+    }
+}

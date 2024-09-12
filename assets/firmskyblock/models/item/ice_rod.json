@@ -1,14 +1,14 @@
 {
     "parent": "minecraft:item/handheld_rod",
     "textures": {
-        "layer0": "firmskyblock:item/fishing/rod_of_the_sea/rod_of_the_sea"
+        "layer0": "firmskyblock:item/fishing/ice_rod"
     },
     "overrides": [
         {
             "predicate": {
                 "cast": 1
             },
-            "model": "firmskyblock:item/rod_of_the_sea_cast"
+            "model": "firmskyblock:item/ice_rod_cast"
         }
     ]
 }

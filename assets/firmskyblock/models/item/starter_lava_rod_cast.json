@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/starter_lava_rod",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/starter_lava_rod_cast"
+    }
+}

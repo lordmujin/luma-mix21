@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/chum_rod",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/chum_rod_cast"
+    }
+}
