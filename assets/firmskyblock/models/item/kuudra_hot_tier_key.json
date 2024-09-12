@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/crimson_isle/kuudra_keys/hot_kuudra_key"
+    }
+}
