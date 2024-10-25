@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/pet_items/upgrade/pet_item_chocolate_syringe"
+    }
+}

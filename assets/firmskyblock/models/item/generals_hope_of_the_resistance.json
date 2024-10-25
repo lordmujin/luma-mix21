@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/wands/staff_of_the_rising_sun/generals_staff_of_the_rising_sun"
+    }
+}

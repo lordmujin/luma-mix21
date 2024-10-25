@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "firmskyblock:item/events/spooky/decayed_bat"
+        "layer0": "firmskyblock:item/events/great_spook/decayed_bat"
     }
 }

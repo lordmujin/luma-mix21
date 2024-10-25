@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/wands/fire_freeze_staff/fire_freeze_staff"
+    }
+}

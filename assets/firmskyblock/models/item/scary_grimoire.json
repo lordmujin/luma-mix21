@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/events/great_spook/scary_grimoire/scary_grimoire"
+    }
+}

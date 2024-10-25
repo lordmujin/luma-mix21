@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "firmskyblock:item/events/spooky/wet_pumpkin"
+        "layer0": "firmskyblock:item/events/great_spook/wet_pumpkin"
     }
 }

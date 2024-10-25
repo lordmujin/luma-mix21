@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "firmskyblock:item/wands/ice_spray_wand"
+        "layer0": "firmskyblock:item/wands/ice_spray_wand/ice_spray_wand"
     }
 }

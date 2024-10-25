@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/pet_items/upgrade/griffin/griffin_upgrade_stone_epic"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "firmskyblock:item/wands/spirit_sceptre/starred_spirit_sceptre"
+    }
+}

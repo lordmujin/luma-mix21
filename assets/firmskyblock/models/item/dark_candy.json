@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "firmskyblock:item/events/spooky/dark_candy"
+        "layer0": "firmskyblock:item/events/great_spook/dark_candy"
     }
 }

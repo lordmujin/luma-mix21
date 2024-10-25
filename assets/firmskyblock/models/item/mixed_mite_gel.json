@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "firmskyblock:item/end/mixed_mite_gel"
+        "layer0": "firmskyblock:item/pet_items/upgrade/mixed_mite_gel"
     }
 }

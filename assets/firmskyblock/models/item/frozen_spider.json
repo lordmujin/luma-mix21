@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "firmskyblock:item/events/spooky/frozen_spider"
+        "layer0": "firmskyblock:item/events/great_spook/frozen_spider"
     }
 }

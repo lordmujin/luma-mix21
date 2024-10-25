@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/pet_items/upgrade/vampire_fang/vampire_fang"
+    }
+}
