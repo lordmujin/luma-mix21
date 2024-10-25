@@ -1,10 +1,8 @@
-# luma-mix21
-## Hypixel Skyblock Resource Pack for Minecraft 1.21
+# Hypixel Skyblock Resource Pack for Minecraft 1.21
+![banner](https://github.com/user-attachments/assets/d1331864-6dd2-4d7c-91df-06dacd5189b6)
+Hello every-nyan <3 
 
-Hello every-nyan <3
-This is my first try of a texture pack for Hypixel Skyblock on Minecraft 1.21.
-
-Its based on the new Firmament mod resource pack format, using the fabric modloader, and I advise some mods like Sodium and Indium for performance, I'll leave links down bellow.
+This pack is based on the new Firmament mod CIT format using the fabric modloader, I advise some mods like Sodium and Indium for performance and I'll leave links down bellow.
 I have been searching the web for the past few weeks and still couldn't find much info on new packs for 1.21, skyblocker and firmament already updated, with really good features for the server, but we still don't have a texture pack that works, so I started doing one :)
 
 ## Disclaimer
