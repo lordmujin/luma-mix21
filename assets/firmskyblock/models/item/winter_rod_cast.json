@@ -2,13 +2,5 @@
     "parent": "minecraft:item/handheld_rod",
     "textures": {
         "layer0": "firmskyblock:item/fishing/winter_rod_cast"
-    },
-    "overrides": [
-        {
-            "predicate": {
-                "cast": 1
-            },
-            "model": "firmskyblock:item/winter_rod_cast"
-        }
-    ]
+    }
 }

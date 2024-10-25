@@ -1,7 +1,7 @@
 {
     "parent": "firmskyblock:item/auger_rod",
     "textures": {
-        "layer0": "firmskyblock:item/fishing/auger_rod/auger_rod"
+        "layer0": "firmskyblock:item/fishing/auger_rod/auger_rod_cast"
     }
 }
 
