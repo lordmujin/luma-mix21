@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/pet_items/exp_boost/all_skills/all_skills_exp_boost"
+    }
+}

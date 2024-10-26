@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "firmskyblock:item/swords/yeti_sword/yeti_sword"
+        "layer0": "firmskyblock:item/swords/bingolibur"
     }
 }

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/events/stock_of_stonks/blood_soaked_coins"
+    }
+}
