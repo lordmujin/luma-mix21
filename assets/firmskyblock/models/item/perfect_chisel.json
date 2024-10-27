@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/mining/glacite_tunnels/chisel/perfect_chisel"
+    }
+}

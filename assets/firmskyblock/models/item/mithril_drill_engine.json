@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/mining/forge/mithril_plated_drill_engine/mithril_plated_drill_engine"
+    }
+}

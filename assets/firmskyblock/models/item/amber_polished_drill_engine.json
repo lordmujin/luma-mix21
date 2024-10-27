@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/mining/forge/amber_polished_drill_engine/amber_polished_drill_engine"
+    }
+}
