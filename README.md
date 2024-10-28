@@ -12,7 +12,7 @@ I have been searching the web for the past few weeks and still couldn't find muc
 ## W.I.P
 ### -Armor *Models* is not implemented yet, so only items work
 ### -Icons and arrows in GUI's
-### -Enchanted books (the most recent enchants have the default texture)
+### -Enchanted books (working on filling the gaps)
 ### -Potions
 
 ## Future
