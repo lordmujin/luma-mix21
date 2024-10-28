@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/books/ferocious_mana/ferocious_mana7"
+    }
+}
