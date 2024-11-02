@@ -2,5 +2,6 @@
     "parent": "minecraft:item/generated",
     "textures": {
         "layer0": "firmskyblock:item/mining/dwarven_mines/goblin_egg"
-    }
+    },
+    "firmament:tint_overrides": {"0": -1}
 }
