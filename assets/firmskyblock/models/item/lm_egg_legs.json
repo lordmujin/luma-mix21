@@ -2,5 +2,6 @@
     "parent": "minecraft:item/generated",
     "textures": {
         "layer0": "firmskyblock:item/rift/items/lm_egg_legs"
-    }
+    },
+    "firmament:tint_overrides": {"0": -1}
 }
