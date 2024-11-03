@@ -37,25 +37,54 @@ I have been searching the web for the past few weeks and still couldn't find muc
 
 ### -Rachel Pack: https://modrinth.com/resourcepack/rachel-pack (farming tools are pretty dope)
 
-## Mods I recommend:
-### -Firmament: https://modrinth.com/mod/firmament (this one is mandatory, comes with other dependencies) 
 
-### -Skyblocker: https://modrinth.com/mod/skyblocker-liap (most based skyblock mod ever, better than NEU if you are wondering) 
+# Playing Hypixel on 1.21
+## Installing Fabric (Core and API's)
+### -Fabric Mod: https://fabricmc.net
 
-### -Sodium: https://modrinth.com/mod/sodium (FPS mod) 
+### -Fabric API: https://modrinth.com/mod/fabric-api
 
-### -Lithium: https://modrinth.com/mod/lithium (FPS mod) 
+### -Fabric Language Kotlin: https://modrinth.com/mod/fabric-language-kotlin
 
-### -EntityCulling: https://modrinth.com/mod/entityculling (FPS mod) 
+### -Cloth Config: https://modrinth.com/mod/cloth-config
 
-### -Dynamic FPS: https://modrinth.com/mod/dynamic-fps (FPS mod) 
+### -Architectury API: https://modrinth.com/mod/architectury-api
 
-### -Zoomify: https://modrinth.com/mod/zoomify (zoom) 
+### -Hypixel API: https://modrinth.com/mod/hypixel-mod-api
 
-### -Krypton: https://modrinth.com/mod/krypton (server optimization) 
+## Hypixel Skyblock Mods
+### -Firmament: https://modrinth.com/mod/firmament
 
-### -ModelGapFix: https://modrinth.com/mod/modelfix (minor fix to some custom item gaps) 
+### -Skyblocker: https://modrinth.com/mod/skyblocker-liap
 
-### -FabricSkyboxes: https://modrinth.com/mod/fabricskyboxes (this pack is compatible with custom skyboxes)
+### -NoChangeTheGame: https://modrinth.com/mod/nochangethegame
 
-### -Farsight: https://www.curseforge.com/minecraft/mc-mods/farsight-fabric (cool distant horizons but works super well on servers)
+### -REI: https://modrinth.com/mod/rei
+
+## Performance Mods
+### -Sodium: https://modrinth.com/mod/sodium
+
+### -Sodium Extra: https://modrinth.com/mod/sodium-extra
+
+### -Lithium: https://modrinth.com/mod/lithium
+
+### -EntityCulling: https://modrinth.com/mod/entityculling
+
+### -FerriteCore: https://modrinth.com/mod/ferrite-core
+
+### -Dynamic FPS: https://modrinth.com/mod/dynamic-fps
+
+### -Krypton: https://modrinth.com/mod/krypton
+
+## QoL Mods
+### -Zoomify: https://modrinth.com/mod/zoomify
+
+### -ModMenu: https://modrinth.com/mod/modmenu
+
+### -QDAA: https://modrinth.com/mod/qdaa
+
+### -ModelGapFix: https://modrinth.com/mod/modelfix
+
+### -FabricSkyboxes: https://modrinth.com/mod/fabricskyboxes
+
+### -Farsight: https://www.curseforge.com/minecraft/mc-mods/farsight-fabric
