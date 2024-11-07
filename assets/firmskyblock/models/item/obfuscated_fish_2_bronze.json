@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/trophy_fish/obfuscated_fish_2/obfuscated_fish_2_bronze"
+    }
+}

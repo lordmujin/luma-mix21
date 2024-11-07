@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "firmskyblock:item/events/jerry/ice_hunk"
+        "layer0": "firmskyblock:item/events/jerry/hunk_of_ice"
     }
 }

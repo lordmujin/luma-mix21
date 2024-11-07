@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/trophy_fish/steaming_hot_flounder/steaming_hot_flounder_silver"
+    }
+}
