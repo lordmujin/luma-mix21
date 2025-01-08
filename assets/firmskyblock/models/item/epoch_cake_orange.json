@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/misc/epoch_cake/epoch_cake_orange"
+    }
+}

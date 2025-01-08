@@ -2,5 +2,6 @@
     "parent": "minecraft:item/generated",
     "textures": {
         "layer0": "firmskyblock:item/dungeons/decoy/decoy"
-    }
+    },
+    "firmament:tint_overrides": {"0": -1}
 }

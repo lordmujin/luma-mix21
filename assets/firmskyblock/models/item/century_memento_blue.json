@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/misc/memento/cake_slice/century_memento_blue"
+    }
+}
