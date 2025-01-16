@@ -56,9 +56,11 @@ I have been searching the web for the past few weeks and still couldn't find muc
 
 ### -Skyblocker: https://modrinth.com/mod/skyblocker-liap
 
-### -NoChangeTheGame: https://modrinth.com/mod/nochangethegame
+### -NoFrills: https://modrinth.com/mod/nofrills
 
 ### -REI: https://modrinth.com/mod/rei
+
+### -Custom Scoreboard: https://modrinth.com/mod/skyblock-custom-scoreboard
 
 ## Performance Mods
 ### -Sodium: https://modrinth.com/mod/sodium
@@ -73,6 +75,8 @@ I have been searching the web for the past few weeks and still couldn't find muc
 
 ### -Dynamic FPS: https://modrinth.com/mod/dynamic-fps
 
+### -ScalableLux: https://modrinth.com/mod/scalablelux
+
 ### -Krypton: https://modrinth.com/mod/krypton
 
 ## QoL Mods
@@ -80,10 +84,12 @@ I have been searching the web for the past few weeks and still couldn't find muc
 
 ### -ModMenu: https://modrinth.com/mod/modmenu
 
+### -Bobby: https://modrinth.com/mod/bobby
+
+### -Iris: https://modrinth.com/mod/iris
+
 ### -QDAA: https://modrinth.com/mod/qdaa
 
 ### -ModelGapFix: https://modrinth.com/mod/modelfix
 
 ### -FabricSkyboxes: https://modrinth.com/mod/fabricskyboxes
-
-### -Farsight: https://www.curseforge.com/minecraft/mc-mods/farsight-fabric
