@@ -1,8 +1,8 @@
 {
-    "parent": "block/slab",
-    "textures": {
-        "bottom": "block/sandstone_slab_bottom",
-        "top": "block/sandstone_slab_top",
-        "side": "block/sandstone_slab"
-    }
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "minecraft:block/sandstone_bottom",
+    "side": "minecraft:block/sandstone",
+    "top": "minecraft:block/sandstone_top"
+  }
 }

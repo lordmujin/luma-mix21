@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/potion",
+    "textures": {
+        "layer0": "minecraft:item/potion",
+        "layer1": "firmskyblock:item/misc/potions/agility_potion"
+    }
+}

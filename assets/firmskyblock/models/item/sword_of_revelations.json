@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "firmskyblock:item/swords/sword_of_revelations"
+        "layer0": "firmskyblock:item/swords/revelations/sword_of_revelations"
     }
 }

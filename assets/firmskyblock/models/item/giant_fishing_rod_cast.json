@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/giant_fishing_rod",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/giant_fishing_rod_cast"
+    }
+}

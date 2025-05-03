@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/pulse_ring",
+    "textures": {
+        "layer0": "firmskyblock:item/accessories/pulse_ring/pulse_ring_mythic"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:item/potion",
+    "textures": {
+        "layer0": "firmskyblock:item/misc/potions/water",
+        "layer1": "minecraft:item/potion",
+        "layer2": "firmskyblock:item/misc/potions/combat_xp_boost_potion"
+    }
+}

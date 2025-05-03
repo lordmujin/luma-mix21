@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/handheld_rod",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/polished_topaz_rod"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "cast": 1
+            },
+            "model": "firmskyblock:item/polished_topaz_rod_cast"
+        }
+    ]
+}

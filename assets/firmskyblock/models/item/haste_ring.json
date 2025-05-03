@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "firmskyblock:item/accessories/unique/haste_ring"
+        "layer0": "firmskyblock:item/accessories/haste/haste_ring"
     }
 }

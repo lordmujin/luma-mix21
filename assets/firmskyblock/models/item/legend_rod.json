@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:item/handheld_rod",
+    "parent": "item/handheld_rod",
     "textures": {
         "layer0": "firmskyblock:item/fishing/rod_of_legends/rod_of_legends"
     },

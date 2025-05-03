@@ -1,0 +1,6 @@
+{
+    "parent": "firmskyblock:item/polished_topaz_rod",
+    "textures": {
+        "layer0": "firmskyblock:item/fishing/polished_topaz_rod_cast"
+    }
+}

@@ -1,0 +1,273 @@
+{
+    "parent": "minecraft:item/potion",
+    "textures": {
+        "layer0": "firmskyblock:item/misc/potions/water"
+    },
+    "overrides": [
+		{
+            "predicate": {
+                "firmament:display_name": { "regex": "Dungeon.*" }
+                },
+            "model": "firmskyblock:item/dungeon_potion"
+        },
+    
+		{
+            "predicate": {
+                "firmament:display_name": { "regex": "Healing.* Splash Potion" }
+                },
+            "model": "firmskyblock:item/healing_splash_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Absorption.* Potion" }
+                },
+            "model": "firmskyblock:item/absorption_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Adrenaline.* Potion" }
+                },
+            "model": "firmskyblock:item/adrenaline_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Agility.* Potion" }
+                },
+            "model": "firmskyblock:item/agility_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Archery.* Potion" }
+                },
+            "model": "firmskyblock:item/archery_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Blindness.* Potion" }
+                },
+            "model": "firmskyblock:item/blindness_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Burning.* Potion" }
+                },
+            "model": "firmskyblock:item/burning_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Cold Resistance.* Potion" }
+                },
+            "model": "firmskyblock:item/cold_resistance_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Critical.* Potion" }
+                },
+            "model": "firmskyblock:item/critical_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Dodge.* Potion" }
+                },
+            "model": "firmskyblock:item/dodge_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Experience.* Potion" }
+                },
+            "model": "firmskyblock:item/experience_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Haste.* Potion" }
+                },
+            "model": "firmskyblock:item/haste_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Knockback.* Potion" }
+                },
+            "model": "firmskyblock:item/knockback_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Magic Find.* Potion" }
+                },
+            "model": "firmskyblock:item/magic_find_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Mana.* Potion" }
+                },
+            "model": "firmskyblock:item/mana_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Mushed Glowy Tonic.* Potion" }
+                },
+            "model": "firmskyblock:item/mushed_glowy_tonic_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Obsidian Skin.* Potion" }
+                },
+            "model": "firmskyblock:item/obsidian_skin_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Pet Luck.* Potion" }
+                },
+            "model": "firmskyblock:item/pet_luck_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Poisoned Candy.* Potion" }
+                },
+            "model": "firmskyblock:item/poisoned_candy_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Rabbit.* Potion" }
+                },
+            "model": "firmskyblock:item/rabbit_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Resistance.* Potion" }
+                },
+            "model": "firmskyblock:item/resistance_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Speed.* Potion" }
+                },
+            "model": "firmskyblock:item/speed_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Spelunker.* Potion" }
+                },
+            "model": "firmskyblock:item/spelunker_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Spirit.* Potion" }
+                },
+            "model": "firmskyblock:item/spirit_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Stamina.* Potion" }
+                },
+            "model": "firmskyblock:item/stamina_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Stun.* Potion" }
+                },
+            "model": "firmskyblock:item/stun_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "True Defence.* Potion" }
+                },
+            "model": "firmskyblock:item/true_defense_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Venomous.* Potion" }
+                },
+            "model": "firmskyblock:item/venomous_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Wisp Ice.* Potion" }
+                },
+            "model": "firmskyblock:item/wisp_ice_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Wounded.* Potion" }
+                },
+            "model": "firmskyblock:item/wounded_potion"
+        },
+        
+		{
+            "predicate": {
+                "firmament:display_name": { "regex": "Alchemy XP Boost.*" }
+                },
+            "model": "firmskyblock:item/alchemy_xp_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Combat XP Boost.*" }
+                },
+            "model": "firmskyblock:item/combat_xp_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Enchanting XP Boost.*" }
+                },
+            "model": "firmskyblock:item/enchanting_xp_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Farming XP Boost.*" }
+                },
+            "model": "firmskyblock:item/farming_xp_potion"
+        },
+        
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Fishing XP Boost.*" }
+                },
+            "model": "firmskyblock:item/fishing_xp_potion"
+        },
+
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Foraging XP Boost.*" }
+                },
+            "model": "firmskyblock:item/foraging_xp_potion"
+        },
+
+        {
+            "predicate": {
+                "firmament:display_name": { "regex": "Mining XP Boost.*" }
+                },
+            "model": "firmskyblock:item/mining_xp_potion"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "firmskyblock:item/accessories/pulse_ring/pulse_ring_uncommon"
+    },
+    "overrides": [
+		{
+            "predicate": {
+                "firmament:lore": { "regex": ".*RARE ACCESSORY.*", "color": "strip" } 
+                },
+            "model": "firmskyblock:item/pulse_ring_rare"
+        },
+        {
+            "predicate": {
+                "firmament:lore": { "regex": ".*EPIC ACCESSORY.*", "color": "strip" } 
+                },
+            "model": "firmskyblock:item/pulse_ring_epic"
+        },
+        {
+            "predicate": {
+                "firmament:lore": { "regex": ".*LEGENDARY ACCESSORY.*", "color": "strip" } 
+                },
+            "model": "firmskyblock:item/pulse_ring_legendary"
+        },
+        {
+            "predicate": {
+                "firmament:lore": { "regex": ".*MYTHIC ACCESSORY.*", "color": "strip" } 
+                },
+            "model": "firmskyblock:item/pulse_ring_mythic"
+        }
+    ]
+}
